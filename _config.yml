@@ -1,6 +1,6 @@
 #
 # This file contains configuration flags to customize your site
-# C
+# 
 
 # Name of your site (displayed in the header)
 name: Brandon Jackson
@@ -9,7 +9,7 @@ name: Brandon Jackson
 description: "CS373 Fall 2017: Brandon Jackson"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/9620411
+avatar: https://avatars2.githubusercontent.com/u/9620411?
 
 #
 # Flags below are optional
